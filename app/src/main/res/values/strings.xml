@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AsriNovianto_1202150023_MODUL2</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="imagesplash">imagesplash</string>
+    <string name="imageacivity">imageAcivity</string>
+    <string name="pilih_menu">Pilih Menu :</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pesan_sekarang">Pesan Sekarang</string>
+    <string name="detail_costumer">Detail Costumer</string>
+    <string name="name">Name</string>
+    <string name="nomor_meja">Nomor Meja :</string>
+    <string name="pilih_pesanan">Pilih Pesanan</string>
+    <string name="todo">TODO</string>
+</resources>
